@@ -13,7 +13,7 @@
 
 ---
 
-### Checkout the live website [here](https://tailwindcss3-paytm-clone.netlify.app/).
+### Checkout the live website [here](https://shopify-clone-tailwindcss3.netlify.app/).
 
 ---
 
