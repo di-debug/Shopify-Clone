@@ -19,7 +19,7 @@
 
 ## My Learnings
 -  Learned to create and use css variables in this project.
--  Learned to clone website using Tilwind css.
+-  Learned to clone website using Tailwind css.
 -  Learned to used inline tailwind css elements and hover effect.
 
 
